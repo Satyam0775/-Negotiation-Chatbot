@@ -34,4 +34,4 @@ The chatbot initiates a negotiation process where users can make offers, and the
 
 Watch the following video to see the chatbot in action:
 
-[![Watch the demo](https://youtu.be/8zvX0HDnsgY?si=owHU1ANpbHyHR-db)
+[![Watch the demo](http://img.youtube.com/vi/8zvX0HDnsgY/0.jpg)](https://youtu.be/8zvX0HDnsgY)

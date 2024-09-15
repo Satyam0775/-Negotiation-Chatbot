@@ -35,3 +35,6 @@ The chatbot initiates a negotiation process where users can make offers, and the
 Watch the following video to see the chatbot in action:
 
 [![Watch the demo]](https://youtu.be/8zvX0HDnsgY)
+
+Summary
+This integration involves setting up the OpenAI client with an API key, defining functions to generate responses using GPT-3, and implementing negotiation logic to interact with users. The result is a dynamic chatbot capable of handling real-time negotiations based on user input.
